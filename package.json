@@ -1,0 +1,7 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "dependencies": {
+    "raet-ui-lib": "https://github.com/serguei-raet/raet-ui-lib-dist.git"
+  }
+}
